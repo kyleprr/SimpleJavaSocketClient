@@ -1,2 +1,2 @@
-# SimpleJavaSocketClient
+# Simple Java Socket Client
 SimpleJavaSocketClient
